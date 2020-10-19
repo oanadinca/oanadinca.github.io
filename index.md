@@ -6,7 +6,7 @@ I am a masters student at PUB.
 
 ## This is me
 
-![Oana](https://github.com/oanadinca/oanadinca.github.io/blob/master/poza.jpg)
+![Oana](poza.jpg)
 
 ## Social
 
